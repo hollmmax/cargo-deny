@@ -41,7 +41,7 @@ If you want to use `cargo-deny` without having `cargo` installed, build `cargo-d
 ```bash
 cargo install --locked cargo-deny
 
-# Or, if you're an Arch user
+# BTW, if you're an Arch user
 pacman -S cargo-deny
 ```
 
